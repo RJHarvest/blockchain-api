@@ -1,6 +1,7 @@
 # Simple Blockchain API
 
 A simple JSON API in Python and Flask to mine a new block, create transactions, register and resolve nodes in the blockchain. This was made to help learn blockchain better.
+
 ![image of the blockchain](/chain-long.png)
 
 ## Prerequisites
@@ -27,7 +28,6 @@ $ source ./venv/bin/activate
 1. Run the app on a different port simultaneously
 ```bash
 $ source ./venv/bin/activate
-(venv) $ flask run
 (venv) $ export FLASK_RUN_PORT=8000
 (venv) $ flask run
 ```
