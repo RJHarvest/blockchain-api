@@ -1,4 +1,4 @@
-#Simple Blockchain API
+# Simple Blockchain API
 
 A simple api to mine, create transactions, register and resolve nodes in the blockchain.
 
